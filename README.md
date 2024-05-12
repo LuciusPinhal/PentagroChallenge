@@ -1,11 +1,11 @@
 # Desafio Técnico - Sistema de Login e Gestão de Usuários
 
-&nbsp;&nbsp;
+&nbsp;
 
 
-https://github.com/LuciusPinhal/PentagroChallenge/assets/106531308/dc83a91c-0b14-4a21-bfb9-39fa00ef9b36
+https://github.com/LuciusPinhal/PentagroChallenge/assets/106531308/4f9af376-24b5-4ecd-9d2c-40cde0a3fcb4
 
-
+&nbsp;
 
 ## Escopo
 

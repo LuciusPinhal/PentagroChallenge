@@ -3,12 +3,7 @@
 &nbsp;&nbsp;
 
 
-https://github.com/LuciusPinhal/PentagroChallenge/assets/106531308/42a07840-4786-47ef-8ca5-8d7ae673e0e4
-
-
-# Tela de Criação de Conta
-
-![CriarConta](https://github.com/LuciusPinhal/PentagroChallenge/assets/106531308/eeab6c98-1908-407d-ab83-f567732c8409)
+https://github.com/LuciusPinhal/PentagroChallenge/assets/106531308/dc83a91c-0b14-4a21-bfb9-39fa00ef9b36
 
 
 
